@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/siva-src-tic-tac-toe/static/css/main.eb3705cf.chunk.css",
+    "main.js": "/siva-src-tic-tac-toe/static/js/main.70dc9873.chunk.js",
+    "main.js.map": "/siva-src-tic-tac-toe/static/js/main.70dc9873.chunk.js.map",
+    "runtime-main.js": "/siva-src-tic-tac-toe/static/js/runtime-main.cdd65c40.js",
+    "runtime-main.js.map": "/siva-src-tic-tac-toe/static/js/runtime-main.cdd65c40.js.map",
+    "static/js/2.17a117a2.chunk.js": "/siva-src-tic-tac-toe/static/js/2.17a117a2.chunk.js",
+    "static/js/2.17a117a2.chunk.js.map": "/siva-src-tic-tac-toe/static/js/2.17a117a2.chunk.js.map",
+    "static/js/3.8787c72a.chunk.js": "/siva-src-tic-tac-toe/static/js/3.8787c72a.chunk.js",
+    "static/js/3.8787c72a.chunk.js.map": "/siva-src-tic-tac-toe/static/js/3.8787c72a.chunk.js.map",
+    "index.html": "/siva-src-tic-tac-toe/index.html",
+    "static/css/main.eb3705cf.chunk.css.map": "/siva-src-tic-tac-toe/static/css/main.eb3705cf.chunk.css.map",
+    "static/js/2.17a117a2.chunk.js.LICENSE.txt": "/siva-src-tic-tac-toe/static/js/2.17a117a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdd65c40.js",
+    "static/js/2.17a117a2.chunk.js",
+    "static/css/main.eb3705cf.chunk.css",
+    "static/js/main.70dc9873.chunk.js"
+  ]
+}
