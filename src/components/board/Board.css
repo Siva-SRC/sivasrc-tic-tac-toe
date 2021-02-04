@@ -1,0 +1,15 @@
+.board {
+  width: 480px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25vh;
+}
+
+.heading {
+  font-size: 40px;
+  font-family: "Anton", sans-serif;
+}
+
+body {
+  background-image: url("https://previews.123rf.com/images/whimzingers/whimzingers1912/whimzingers191200063/137735870-vector-tic-tac-toe-hugs-and-kisses-in-red-and-black-on-white-background-seamless-repeat-pattern-back.jpg");
+}
